@@ -2,8 +2,15 @@
 
  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/github/stars/JinXins/Awesome-Token-Merge-for-MLLMs?color=green) ![GitHub forks](https://img.shields.io/github/forks/JinXins/Awesome-Token-Merge-for-MLLMs?color=yellow&label=Fork)
  
-Welcome to Awesome-Token-Merge-for-MLLMs. (If you know some related papers which don't conclute in this list, please tell me in **Issues**, Thk 🥰)
+## Welcome to Awesome-Token-Merge-for-MLLMs.  
+*(If you know some related papers which don't conclute in this list, please tell me in **Issues**, Thk !)* 🥰
+
 If this repository has been helpful to you, please consider giving it a ⭐️ to show your support. Your support helps us reach more researchers and contributes to the growth of this resource. Thank you! 
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/419181d4-091e-48dd-8ecd-4b2b02899dd2" width=50% height=50% 
+class="center">
+</p>
 
 ## 📜 Introduction
 
