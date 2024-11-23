@@ -1,17 +1,17 @@
-# Awesome-Token-Merge-for-MLLMs
+# 💫 Awesome-Token-Merge-for-MLLMs
 
  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![GitHub stars](https://img.shields.io/github/stars/JinXins/Awesome-Token-Merge-for-MLLMs?color=green) ![GitHub forks](https://img.shields.io/github/forks/JinXins/Awesome-Token-Merge-for-MLLMs?color=yellow&label=Fork)
  
-Welcome to Awesome-Token-Merge-for-MLLMs.
+Welcome to Awesome-Token-Merge-for-MLLMs. (If you know some related papers which don't conclute in this list, please tell me in **Issues**, Thk 🥰)
 If this repository has been helpful to you, please consider giving it a ⭐️ to show your support. Your support helps us reach more researchers and contributes to the growth of this resource. Thank you! 
 
-## Introduction
+## 📜 Introduction
 
 **We summarize awesome token merge / reduce / resample methods in vision model for multi-modal large language models.**
 
 The list of awesome mixup augmentation methods is summarized in chronological order and is on updating. The main branch is modified according to [Awesome-Token-Compress](https://github.com/daixiangzi/Awesome-Token-Compress).
 
-## Related Papers
+## 📖 Related Papers
 
 * **Visual Instruction Tuning** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2304.08485-red?logo=arxiv" height="14" />  
 *Haotian Liu, Chunyuan Li, Qingyang Wu, Yong Jae Lee*<br>
@@ -221,3 +221,5 @@ arXiv'2024 [[Paper](https://arxiv.org/abs/2411.14228)]
    <summary>FocusLLaVA Framework</summary>
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/1086d89b-3df3-4287-8042-8fda0daa69ff" /></p>
    </details>
+
+<p align="right">(<a href="#top">back to top</a>)</p>
