@@ -102,3 +102,122 @@ arXiv'2024 [[Paper](https://arxiv.org/abs/2406.12275)]
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/d2d772fe-f9de-4234-8aa3-530654688d38" /></p>
    </details>
 
+* **TokenPacker: Efficient Visual Projector for Multimodal LLM** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2407.02392-red?logo=arxiv" height="14" />  
+*Wentong Li, Yuqian Yuan, Jian Liu, Dongqi Tang, Song Wang, Jie Qin, Jianke Zhu, Lei Zhang*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2407.02392)]
+[[Code](https://github.com/CircleRadon/TokenPacker)]
+   <details close>
+   <summary>TokenPacker Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/d9b39280-a617-4578-9ae1-7045cfd0e828" /></p>
+   </details>
+
+* **Token-level Correlation-guided Compression for Efficient Multimodal Document Understanding** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2407.14439-red?logo=arxiv" height="14" />  
+*Renshan Zhang, Yibo Lyu, Rui Shao, Gongwei Chen, Weili Guan, Liqiang Nie*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2407.14439)]
+[[Code](https://github.com/JiuTian-VL/TokenCorrCompressor)]
+   <details close>
+   <summary>Token-level Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/18b88c11-da91-42aa-bec4-7219d8d3de99" /></p>
+   </details>
+
+* **HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models in Resource-Constrained Environments** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2408.10945-red?logo=arxiv" height="14" />  
+*Kazi Hasan Ibn Arif, JinYi Yoon, Dimitrios S. Nikolopoulos, Hans Vandierendonck, Deepu John, Bo Ji*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2408.10945)]
+   <details close>
+   <summary>HiRED Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/7c760e17-5c45-4d9e-a6a0-9224027d79e3" /></p>
+   </details>
+
+* **Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2409.01179-red?logo=arxiv" height="14" />  
+*Yi Chen, Jian Xu, Xu-Yao Zhang, Wen-Zhuo Liu, Yang-Yang Liu, Cheng-Lin Liu*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2409.01179)]
+   <details close>
+   <summary>Recoverable Compression Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/06f8c5bb-fccc-46f8-ba75-a936e3a73a9c" /></p>
+   </details>
+
+* **TG-LLaVA: Text Guided LLaVA via Learnable Latent Embeddings** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2409.09564-red?logo=arxiv" height="14" />  
+*Dawei Yan, Pengcheng Li, Yang Li, Hao Chen, Qingguo Chen, Weihua Luo, Wei Dong, Qingsen Yan, Haokui Zhang, Chunhua Shen*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2409.09564)]
+   <details close>
+   <summary>TG-LLaVA Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/0d4cbf41-95a9-408d-ae03-77ec64021692" /></p>
+   </details>
+
+* **Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2409.10994-red?logo=arxiv" height="14" />  
+*Dingjie Song, Wenjun Wang, Shunian Chen, Xidong Wang, Michael Guan, Benyou Wang*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2409.10994)]
+[[Code](https://github.com/FreedomIntelligence/TRIM/)]
+   <details close>
+   <summary>TRIM Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/17d96743-010d-4a77-932d-dc5989c6f9e7" /></p>
+   </details>
+
+* **AVG-LLaVA: A Large Multimodal Model with Adaptive Visual Granularity** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.02745-red?logo=arxiv" height="14" />  
+*Zhibin Lan, Liqiang Niu, Fandong Meng, Wenbo Li, Jie Zhou, Jinsong Su*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2410.02745)]
+[[Code](https://github.com/DeepLearnXMU/AVG-LLaVA)]
+   <details close>
+   <summary>AVG-LLaVA Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/5624cff4-1565-442f-b8f3-6f29b4191171" /></p>
+   </details>
+
+* **Retrieval Replace Reduction: An effective visual token reduction method via semantic match** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.07278-red?logo=arxiv" height="14" />  
+*Yingen Liu, Fan Wu, Ruihui Li, Zhuo Tang, Kenli Li*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2410.07278)]
+   <details close>
+   <summary>TRSM Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/4564afe1-7730-4e6a-94cd-2199332fb9dd" /></p>
+   </details>
+
+* **Efficient Vision-Language Models by Summarizing Visual Tokens into Compact Registers** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.14072-red?logo=arxiv" height="14" />  
+*Yuxin Wen, Qingqing Cao, Qichen Fu, Sachin Mehta, Mahyar Najibi*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2410.14072)]
+   <details close>
+   <summary>Victor Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/e389c0ad-3e09-4b86-90f3-08e91d98905b" /></p>
+   </details>
+
+* **PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.17247-red?logo=arxiv" height="14" />  
+*Long Xing, Qidong Huang, Xiaoyi Dong, Jiajie Lu, Pan Zhang, Yuhang Zang, Yuhang Cao, Conghui He, Jiaqi Wang, Feng Wu, Dahua Lin*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2410.17247)]
+[[Code](https://github.com/Cooperx521/PyramidDrop)]
+   <details close>
+   <summary>PyramidDrop Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/7e70c47b-2b20-4719-b897-be2f92cc6b42" /></p>
+   </details>
+
+* **Inference Optimal VLMs Need Only One Visual Token but Larger Models** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.03312-red?logo=arxiv" height="14" />  
+*Kevin Y. Li, Sachin Goyal, Joao D. Semedo, J. Zico Kolter*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2411.03312)]
+[[Code](https://github.com/locuslab/llava-token-compression)]
+   <details close>
+   <summary>QuCC Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/abe6d820-c8cb-4eb4-97af-08874f3a5bd0" /></p>
+   </details>
+
+* **Don't Look Twice: Faster Video Transformers with Run-Length Tokenization** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.05222-red?logo=arxiv" height="14" />  
+*Rohan Choudhury, Guanglei Zhu, Sihan Liu, Koichiro Niinuma, Kris M. Kitani, László Jeni*<br>
+NIPS'2024 *(Spotlight)* [[Paper](https://arxiv.org/abs/2411.05222)]
+[[Code](https://github.com/rccchoudhury/rlt)]
+   <details close>
+   <summary>RLT Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/262ff231-8523-42b1-a189-98a11aae4f02" /></p>
+   </details>
+
+* **Multi-Stage Vision Token Dropping: Towards Efficient Multimodal Large Language Model** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.10803-red?logo=arxiv" height="14" />  
+*Ting Liu, Liangtao Shi, Richang Hong, Yue Hu, Quanjun Yin, Linfeng Zhang*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2411.10803)]
+[[Code](https://github.com/liuting20/MustDrop)]
+   <details close>
+   <summary>MustDrop Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/65afab06-12fc-40f3-86bd-f59f3f65c8fc" /></p>
+   </details>
+
+* **FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.14228-red?logo=arxiv" height="14" />  
+*Yuke Zhu, Chi Xie, Shuang Liang, Bo Zheng, Sheng Guo*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2411.14228)]
+   <details close>
+   <summary>FocusLLaVA Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/1086d89b-3df3-4287-8042-8fda0daa69ff" /></p>
+   </details>
