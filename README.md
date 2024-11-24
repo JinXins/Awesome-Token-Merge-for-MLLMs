@@ -221,6 +221,14 @@ arXiv'2024 [[Paper](https://arxiv.org/abs/2411.10803)]
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/65afab06-12fc-40f3-86bd-f59f3f65c8fc" /></p>
    </details>
 
+* **FoPru: Focal Pruning for Efficient Large Vision-Language Models** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.14164-red?logo=arxiv" height="14" />  
+*Lei Jiang, Weizhe Huang, Tongxuan Liu, Yuting Zeng, Jing Li, Lechao Cheng, Xiaohua Xu*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2411.14164)]
+   <details close>
+   <summary>FoPru Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/8f403c08-af2b-49bc-84c7-91bae1480902" /></p>
+   </details>
+
 * **FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.14228-red?logo=arxiv" height="14" />  
 *Yuke Zhu, Chi Xie, Shuang Liang, Bo Zheng, Sheng Guo*<br>
 arXiv'2024 [[Paper](https://arxiv.org/abs/2411.14228)]
