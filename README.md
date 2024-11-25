@@ -237,4 +237,22 @@ arXiv'2024 [[Paper](https://arxiv.org/abs/2411.14228)]
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/1086d89b-3df3-4287-8042-8fda0daa69ff" /></p>
    </details>
 
+* **LLaVA-MR: Large Language-and-Vision Assistant for Video Moment Retrieval** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.14505-red?logo=arxiv" height="14" />  
+*Weiheng Lu, Jian Li, An Yu, Ming-Ching Chang, Shengpeng Ji, Min Xia*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2411.14505)]
+   <details close>
+   <summary>LLaVA-MR Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/8327d8ae-4a18-438f-a7f9-3bd6ac84c715" /></p>
+   </details>
+
+* **DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.15024-red?logo=arxiv" height="14" />  
+*Keda Tao, Can Qin, Haoxuan You, Yang Sui, Huan Wang*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2411.15024)]
+[[Code](https://github.com/KD-TAO/DyCoke)]
+   <details close>
+   <summary>DyCoke Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/d0fa6f3a-3b38-4c41-b2d5-f6b1a40cb681" /></p>
+   </details>
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
