@@ -254,5 +254,12 @@ arXiv'2024 [[Paper](https://arxiv.org/abs/2411.15024)]
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/d0fa6f3a-3b38-4c41-b2d5-f6b1a40cb681" /></p>
    </details>
 
+* **freePruner: A Training-free Approach for Large Multimodal Model Acceleration** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.15446-red?logo=arxiv" height="14" />  
+*Bingxin Xu, Yuzhang Shang, Yunhao Ge, Qian Lou, Yan Yan*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2411.15446)]
+   <details close>
+   <summary>freePruner Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/361bac5f-787a-4e54-83d5-4e87bb2f6b03" /></p>
+   </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
