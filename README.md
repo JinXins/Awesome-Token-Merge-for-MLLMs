@@ -262,4 +262,12 @@ arXiv'2024 [[Paper](https://arxiv.org/abs/2411.15446)]
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/361bac5f-787a-4e54-83d5-4e87bb2f6b03" /></p>
    </details>
 
+* **Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2411.17686-red?logo=arxiv" height="14" />  
+*Yuhang Han, Xuyang Liu, Pengxiang Ding, Donglin Wang, Honggang Chen, Qingsen Yan, Siteng Huang*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2411.17686)]
+   <details close>
+   <summary>FiCoCo Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/14d5efc2-1e37-4bc0-a098-a24ac6411039" /></p>
+   </details>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
