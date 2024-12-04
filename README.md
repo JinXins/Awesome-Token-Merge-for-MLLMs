@@ -169,6 +169,14 @@ arXiv'2024 [[Paper](https://arxiv.org/abs/2410.02745)]
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/5624cff4-1565-442f-b8f3-6f29b4191171" /></p>
    </details>
 
+* **Treat Visual Tokens as Text? But Your MLLM Only Needs Fewer Efforts to See** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.06169-red?logo=arxiv" height="14" />  
+*Zhibin Lan, Liqiang Niu, Fandong Meng, Wenbo Li, Jie Zhou, Jinsong Su*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2410.06169)]
+   <details close>
+   <summary>YOPO Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/5037aca5-de56-47b1-8819-088fcb1f4fda" /></p>
+   </details>
+
 * **Retrieval Replace Reduction: An effective visual token reduction method via semantic match** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2410.07278-red?logo=arxiv" height="14" />  
 *Yingen Liu, Fan Wu, Ruihui Li, Zhuo Tang, Kenli Li*<br>
 arXiv'2024 [[Paper](https://arxiv.org/abs/2410.07278)]
@@ -268,6 +276,50 @@ arXiv'2024 [[Paper](https://arxiv.org/abs/2411.17686)]
    <details close>
    <summary>FiCoCo Framework</summary>
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/14d5efc2-1e37-4bc0-a098-a24ac6411039" /></p>
+   </details>
+
+* **ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.00447-red?logo=arxiv" height="14" />  
+*Xubing Ye, Yukang Gan, Yixiao Ge, Xiao-Ping Zhang, Yansong Tang*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2412.00447)]
+[[Code](https://yxxxb.github.io/ATP-LLaVA-page/)]
+   <details close>
+   <summary>ATP-LLaVA Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/d002d11a-c503-4aed-b0bd-809a76e933d4" /></p>
+   </details>
+
+* **Accelerating Multimodel Large Language Models by Searching Optimal Vision Token Reduction** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.00556-red?logo=arxiv" height="14" />  
+*Shiyu Zhao, Zhenting Wang, Felix Juefei-Xu, Xide Xia, Miao Liu, Xiaofang Wang, Mingfu Liang, Ning Zhang, Dimitris N. Metaxas, Licheng Yu*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2412.00556)]
+   <details close>
+   <summary>Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/b183537a-f71e-4c21-a32c-b325c5fdd842" /></p>
+   </details>
+
+* **Dynamic-LLaVA: Efficient Multimodal Large Language Models via Dynamic Vision-language Context Sparsification** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.00876-red?logo=arxiv" height="14" />  
+*Wenxuan Huang, Zijie Zhai, Yunhang Shen, Shaoshen Cao, Fei Zhao, Xiangfeng Xu, Zheyu Ye, Shaohui Lin*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2412.00876)]
+[[Code](https://github.com/Osilly/dynamic_llava)]
+   <details close>
+   <summary>Dynamic-LLaVA Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/63c2659e-3e6d-4b2e-8c50-00f05524cc72" /></p>
+   </details>
+
+* **Negative Token Merging: Image-based Adversarial Feature Guidance** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.01339-red?logo=arxiv" height="14" />  
+*Jaskirat Singh, Lindsey Li, Weijia Shi, Ranjay Krishna, Yejin Choi, Pang Wei Koh, Michael F. Cohen, Stephen Gould, Liang Zheng, Luke Zettlemoyer*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2412.01339)]
+[[Code](https://github.com/1jsingh/negtome)]
+   <details close>
+   <summary>NegToMe Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/a37adaec-9d57-4d8c-8e34-60b7ef16330e" /></p>
+   </details>
+
+* **[CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.01818-red?logo=arxiv" height="14" />  
+*Qizhe Zhang, Aosong Cheng, Ming Lu, Zhiyong Zhuo, Minqi Wang, Jiajun Cao, Shaobo Guo, Qi She, Shanghang Zhang*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2412.01818)]
+[[Code](https://github.com/Theia-4869/FasterVLM)]
+   <details close>
+   <summary>FasterVLM Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/1e30dcd7-4f24-43f1-925a-9cc650bad80a" /></p>
    </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
