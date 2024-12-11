@@ -135,6 +135,14 @@ arXiv'2024 [[Paper](https://arxiv.org/abs/2408.10945)]
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/7c760e17-5c45-4d9e-a6a0-9224027d79e3" /></p>
    </details>
 
+* **MaVEn: An Effective Multi-granularity Hybrid Visual Encoding Framework for Multimodal Large Language Model** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2408.12321-red?logo=arxiv" height="14" />  
+*Chaoya Jiang, Jia Hongrui, Haiyang Xu, Wei Ye, Mengfan Dong, Ming Yan, Ji Zhang, Fei Huang, Shikun Zhang*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2408.12321)]
+   <details close>
+   <summary>MaVEn Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/1eabed15-04e7-43aa-9f03-d92668b61317" /></p>
+   </details>
+
 * **Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2409.01179-red?logo=arxiv" height="14" />  
 *Yi Chen, Jian Xu, Xu-Yao Zhang, Wen-Zhuo Liu, Yang-Yang Liu, Cheng-Lin Liu*<br>
 arXiv'2024 [[Paper](https://arxiv.org/abs/2409.01179)]
@@ -320,6 +328,50 @@ arXiv'2024 [[Paper](https://arxiv.org/abs/2412.01818)]
    <details close>
    <summary>FasterVLM Framework</summary>
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/1e30dcd7-4f24-43f1-925a-9cc650bad80a" /></p>
+   </details>
+   
+* **AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.03248-red?logo=arxiv" height="14" />  
+*Yiwu Zhong, Zhuoming Liu, Yin Li, Liwei Wang*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2412.03248)]
+[[Code](https://github.com/LaVi-Lab/AIM)]
+   <details close>
+   <summary>AIM Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/039fcd12-d6b9-48da-9a19-deaade53c2b5" /></p>
+   </details>
+
+* **VisionZip: Longer is Better but Not Necessary in Vision Language Models** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.04467-red?logo=arxiv" height="14" />  
+*Senqiao Yang, Yukang Chen, Zhuotao Tian, Chengyao Wang, Jingyao Li, Bei Yu, Jiaya Jia*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2412.04467)]
+[[Code](https://github.com/dvlab-research/VisionZip)]
+   <details close>
+   <summary>VisionZip Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/451a7264-0d79-4c59-af59-e923be6250b4" /></p>
+   </details>
+
+* **[CLS] Token Tells Everything Needed for Training-free Efficient MLLMs** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.05819-red?logo=arxiv" height="14" />  
+*Ao Wang, Fengyuan Sun, Hui Chen, Zijia Lin, Jungong Han, Guiguang Ding*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2412.05819)]
+[[Code](https://github.com/THU-MIG/VTC-CLS)]
+   <details close>
+   <summary>VTC-CLS Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/dfafca2a-4507-4687-b951-cbaf8cc40949" /></p>
+   </details>
+
+* **iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.06263-red?logo=arxiv" height="14" />  
+*Lianyu Hu, Fanhua Shang, Liang Wan, Wei Feng*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2412.06263)]
+[[Code](https://github.com/hulianyuyy/iLLaVA)]
+   <details close>
+   <summary>iLLaVA Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/f2a28a36-2518-4534-ad83-2be3ce485059" /></p>
+   </details>
+
+* **Pruning All-Rounder: Rethinking and Improving Inference Efficiency for Large Vision Language Models** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.06458-red?logo=arxiv" height="14" />  
+*Wei Suo, Ji Ma, Mengyang Sun, Lin Yuanbo Wu, Peng Wang, Yanning Zhang*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2412.06458)]
+   <details close>
+   <summary>PAR Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/25b17439-9934-43e7-9fd2-d417407f5b36" /></p>
    </details>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
