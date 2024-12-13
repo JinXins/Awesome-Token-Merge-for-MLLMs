@@ -374,4 +374,37 @@ arXiv'2024 [[Paper](https://arxiv.org/abs/2412.06458)]
    <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/25b17439-9934-43e7-9fd2-d417407f5b36" /></p>
    </details>
 
+* **DocVLM: Make Your VLM an Efficient Reader** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.08746-red?logo=arxiv" height="14" />  
+*Mor Shpigel Nacson, Aviad Aberdam, Roy Ganz, Elad Ben Avraham, Alona Golts, Yair Kittenplon, Shai Mazor, Ron Litman*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2412.08746)]
+   <details close>
+   <summary>DocVLM Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/7381a767-9fa0-4830-a379-8459e8dabc9e" /></p>
+   </details>
+
+* **LLaVA-Zip: Adaptive Visual Token Compression with Intrinsic Image Information** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.08771-red?logo=arxiv" height="14" />  
+*Ke Wang, Hong Xuan*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2412.08771)]
+   <details close>
+   <summary>LLaVA-Zip Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/f475a0a4-7606-49da-95c5-5707e976ab6b" /></p>
+   </details>
+
+* **Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLM** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.09530-red?logo=arxiv" height="14" />  
+*Han Wang, Yuxiang Nie, Yongjie Ye, Deng GuanYu, Yanjie Wang, Shuai Li, Haiyang Yu, Jinghui Lu, Can Huang*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2412.09530)]
+   <details close>
+   <summary>Dynamic-VLM Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/11f6b93f-4bfb-40ac-bb63-fa67c2d622a4" /></p>
+   </details>
+
+* **PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models** <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2412.09613-red?logo=arxiv" height="14" />  
+*Chenyu Yang, Xuan Dong, Xizhou Zhu, Weijie Su, Jiahao Wang, Hao Tian, Zhe Chen, Wenhai Wang, Lewei Lu, Jifeng Dai*<br>
+arXiv'2024 [[Paper](https://arxiv.org/abs/2412.09613)]
+[[Code](https://github.com/OpenGVLab/PVC)]
+   <details close>
+   <summary>PVC Framework</summary>
+   <p align="center"><img width="50%" src="https://github.com/user-attachments/assets/30bf7bc6-407f-4366-9132-49c00dcadef5" /></p>
+   </details>
+
 <p align="right">(<a href="#top">back to top</a>)</p>
